@@ -1,5 +1,6 @@
 <div align="center">
-  <img width="256" alt="VergeStack Logo" src="https://github.com/user-attachments/assets/5c32c3a2-3025-47fe-88eb-b6c9f9f7020c">
+  <img width="256" alt="VergeStack Logo" src="https://github.com/user-attachments/assets/a469776d-7a20-4ee2-9e47-856335802539">
+
   <h1>VergeStack</h1>
   <p>A set of libraries for building modern React applications</p>
 </div>
