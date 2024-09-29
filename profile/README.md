@@ -8,5 +8,5 @@
 
 ### Packages
 - [@vergestack/api](https://www.npmjs.com/package/@vergestack/api)
-- [@vergestack/ui](https://www.npmjs.com/package/@vergestack/ui)
-- [@vergestack/auth](https://www.npmjs.com/package/@vergestack/ui)
+- [@vergestack/api-react](https://www.npmjs.com/package/@vergestack/api-react)
+- [@vergestack/auth](https://www.npmjs.com/package/@vergestack/auth)
